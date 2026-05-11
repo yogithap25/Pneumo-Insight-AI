@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+kaggle.json
+tempCodeRunnerFile.py
+*.pyc
+.ipynb_checkpoints/
