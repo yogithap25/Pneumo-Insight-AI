@@ -1,6 +1,7 @@
-.vscode/
-__pycache__/
-kaggle.json
-tempCodeRunnerFile.py
+venv/
+**pycache**/
 *.pyc
+dataset/
+kaggle.json
+.DS_Store
 .ipynb_checkpoints/
